@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Ideveloperke
-- 👀 I’m interested in distrbuted systems and mobile systems 
+- 👀 I’m interested in distributed systems and mobile systems 
 - 🌱 I’m currently learning distributed systems
 - 💞️ I’m looking to collaborate on microservices architectures
 - 📫 How to reach me dmule@usiu.ac.ke
