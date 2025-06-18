@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Ideveloperke
-- 👀 I’m interested in distributed systems and mobile systems 
-- 🌱 I’m currently learning distributed systems
-- 💞️ I’m looking to collaborate on the SMACK architecture related projects
+- 👀 I’m a distributed systems engineer
+- 🌱 I’m currently working as a data engineer
+- 💞️ I build data intensive applications on the SMACK architecture
 - 📫 How to reach me dmule@usiu.ac.ke
 
 <!---
